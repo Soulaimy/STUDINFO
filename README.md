@@ -78,4 +78,5 @@ Le champ `role` est obligatoire dans la table `users`.
 
 ## Auteur
 
-Généré avec ❤ par ChatGPT pour une gestion complète des inscriptions.
+Soulaimy Ahamed
+
